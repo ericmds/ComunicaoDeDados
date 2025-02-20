@@ -1,0 +1,48 @@
+• Entender os conceitos básicos em redes, abordando:
+  → Contexto atual
+  → Definição
+  → Distribuição Geográfica
+  → Topologias
+  → Meios de transmissão
+  → Arquitetura de Redes
+  → Tecnoligias de LAN'S
+  → Protocolos
+  → Sistemas Operacionais de Rede
+  → Segurança
+
+• Mundo Globalizado
+  → Desenvolvimento tecnológico acelerado
+  → Expansão acelerada das redes de comunicação
+  → Liberalização e desregulamentação os setores de telecomunicação
+  → Ambientes de competividade, devido a internacionalização dos mercados
+
+• Rede de Computadores
+  → Consiste na interconexão entre dois ou mais computadores aciokadis oir neui de recursos de comunicação, distribuídos geograficamente permitindo a comunicação de dados
+
+• Distribuição Geográfica (AVALIAÇÃO)
+  → PAN (Personal Area Network): 
+    - Usadas para que dispositivos se comuniquem dentro de uma distância bastante limitada.  
+    - Rede pessoal, computador pessoa, celular pessoal, videogame pessoal.
+  → LAN (Local Area Newtork): 
+    - Equipamentos interligados operando em distâncias curtas
+    - Distribuidos em um único prédio ou por prédios vizinhos
+    - Alta velocidade
+  → MAN:
+    -
+    -
+  → WAN:
+    -
+    -
+
+• Diferança de bit e byte
+  → bit, menor informação digital, 0 ou 1
+  → 8 bits = 1 byte
+  → Armazenação é feita em bytes
+  → Transmição é feita em bits
+
+• 4 Tecnologias de transmições de dados
+  → Eletron (cabo metáçico)
+  → Ar (Wi-fi)
+  → Luz (fibra óptica)
+
+• 
