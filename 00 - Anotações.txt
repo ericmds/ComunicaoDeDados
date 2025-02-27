@@ -28,11 +28,38 @@
     - Distribuidos em um único prédio ou por prédios vizinhos
     - Alta velocidade
   → MAN:
-    -
-    -
+    - Abrange um área geométricamente específica, como cidade ou região metropolitana
+    - 
   → WAN:
-    -
-    -
+    - Não tem controle de velocidade, nem qualquer tipo de controle
+    - A operadora possuio o controle da velocidade, mas quando sai para a internet, para o cliente, não possui controle.
+    - 
+• Topologias
+  • Tipos de arranjo
+    → Ponto a ponto
+      - Geralmente conectado por um cabo, ou sem fio, concectados uma a outra. Ex: repetidor wi-fi
+    → Multiponto
+      - Ex: TV, rádio
+
+  • Topologias físicas
+    → Barra:
+      - Todas as estações são ligadas em parelelo em cabo
+      - O comprimeto do cabo e o número máximo de estações é determinado pela atenuação do sinal no cabo e pela qualidade das placas de rede
+      - As extremidades do barramento são feitas com terminais
+
+    → Anel:
+      - A saída de cada estação está ligada na entrada da estação seguinte
+      - Fluxo de dados somente em uma direção
+      - É permitido um grande comprimento total de cabo devido a cada estação ser um repetidor de sinal
+
+    → Estrela:
+      - Necessidade de um nó central ou concentrador
+      - Tamnho da rede depende d comporimeito máximo do cabo (100 metros) entre o nó central
+      - Número de estações limitados pelo nó central
+      - O fluxo de dados depende da topologia lógica, pode só receber também só enviar
+
+    → Redes híbridas:
+
 
 • Diferança de bit e byte
   → bit, menor informação digital, 0 ou 1
