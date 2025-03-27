@@ -44,7 +44,7 @@
 ## Limitações Elétricas
  ### Limitação de Comunicação Elétrocas
   * Problemas tecnológicos
-    * Fatores de energia, práticos
+   * Fatores de energia, práticos
 
  ### Limitação físicas fundamentais
   * Lei da natureza
