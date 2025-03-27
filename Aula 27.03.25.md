@@ -1,4 +1,4 @@
-**Continuação da aula**
+<ins>**Continuação da aula**</ins>
 
 ## Transmissão Paralela
   * Cabo tem 8 fios que cada um passa um bit cada
