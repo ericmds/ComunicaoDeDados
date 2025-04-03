@@ -75,12 +75,39 @@ Modelo OSI
  * A comunicação de dados está na camada 1, 2, 3, 4
  * Como elas convesão?
   * Elas conversam por meio das **PRIMITIVAS DE SERVIÇO**
- * Apesar da divisão em sete níveis, pode-se considerar genericamente que três camadas mais baixas cuidam dos aspectos relacionados à transmissão de dados propriamente dita e a camada de transporte lida com a <ins>**comunicação fim-a-fim** (camada 4 - transporte)(PROVA)</ins>, enquanto que as três camadas superiores se preocupam cos os aspectos relacionados à aplicação, já a nível de usuário
+ * Apesar da divisão em sete níveis, pode-se considerar genericamente que:
+  * As três camadas mais baixas cuidam dos aspectos relacionados à transmissão de dados propriamente dita e
+  * A camada de transporte (4) lida com a <ins>**comunicação fim-a-fim** (camada 4 - transporte)(PROVA)</ins>
+  * As três camadas superiores se preocupam cos os aspectos relacionados à aplicação, já a nível de usuário
 
 ## 7 - APLICAÇÃO
+ momento que o usuario faz uma ação, ex: clicar para passar o slide
 ## 6 - APRESENTAÇÃO
+ cripitografas esses dados e compactar
 ## 5 - SEÇÃO
+ pega o pacote e transforma em centanas de pacote pequenos informando que todos pertence a todos os pacotes. Entrega um a um para o transporte
 ## 4 - TRANSPORTE
+ TCP - exemplo, netflix, perdeu o pacote, para
+  Envia o pacote, espera a confirmação se recebeu, se não recebeu manda de novo, até receber um sinal que o pacote foi recebido, ai envia o próximo
+ UDP - exemplo, ao vio, perdeu o pacote, pula
+  Evia o pacote, um por um, mas não espera a confirmação de cada pacote, envia todos um atrás do outro
+ controla todos os pequenos pacotes e envia para a rede
 ## 3 - REDE
-## 2 - ENLACE
+ define por qual caminho esse dado vai entre essa maquina e o servidos dos estados unidos
+## 2 - ENLACE (LIGAÇÃO DE DADOS)
+ Dependem do meio físico de transmissão, da topologia da rede
+ camada de enlace gerencia o meio físico, exemplo o ar
 ## 1 - FÍSICA
+ ai vai pela camada fisica até outro enlace
+ wireless, ar, luz
+
+### PRIMITIVAS DE SERVIÇO
+ * As primitivas de serviço enre duas camadas adjacentes de forma a realizar um serviço
+  * As camadas só falam com suas camadas adjacentes (PROVA)
+  * Ex: A camada de aplicação nao fala com a camda de transporte
+ * No modelo OSI são definidas quatro tipos de primitivas
+  * PEDIDO: Solicitação do pedido
+  * INDICAÇÃO: Entendo a solicitação do pedido
+  * RESPOSTA: Autorizando que pode mandar o pedidopedido
+  * CONFIRMAÇÃO: Mandando os dados
+ * Esses quatro passos acontecem a cada troca de camadas 
