@@ -41,4 +41,20 @@
 * Exemplo: Navegador WEB
 * Os aplicativos já estão na camada de Aplicação
 * Possui protocolos commente necessários aos usuários como http, correio e transferencia de arquivos
-* 
+
+# OUTRO SLIDE?
+
+## TCP/IP
+* No TCP agrupou as camadas do OSI em quatro camadas
+* TCP/IP é formado por 4 camadas
+ * Interface com a rede
+ * Internet
+ * Transporte
+ * Aplicação
+UDP - VELOCIDADE, ENTREGA MAIS RAPIDA, MANDA OS PACOTES E NAO TEM GERENCIA DE RECEPÇÃO, CHAMADA DE VIDEO, AO VIVO, NÃO ORIENTADO A CONEXAO
+TCP - MAIS SEGURANÇA, PACOTE ESPERA CONFIRMACAO DE RECEBIMENTO DO PACOTE PARA MANDAR O PRÓXIMO, YOUTUBE, FILME, NETFLIX, ORIENTADO A CONEXAO
+
+## Internet Protocol (IP)
+* Responsável pelo endereçamento entre máquina de origem e máquina de destino
+* Cada datagrama é independente dos outros datagramas trafegando na rede
+ * Não são estabelecidas conexões lógicas na comunicação
