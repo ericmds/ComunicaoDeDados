@@ -1,11 +1,11 @@
 # Modelo OSI
-7) APLICAÇÃO
-6) APRESENTAÇÃO
-5) SESSÃO
-4) TRANSPORTE
-3) REDE
-2) ENLASE
-1) FÍSICO
+7 - APLICAÇÃO
+6 - APRESENTAÇÃO
+5 - SESSÃO
+4 - TRANSPORTE
+3 - REDE
+2 - ENLASE
+1 - FÍSICO
  
 ## Internet Protocol - IP
 * Exemplos
